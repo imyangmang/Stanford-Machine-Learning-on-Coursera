@@ -1,0 +1,59 @@
+exit
+# Octave 4.2.0, Mon Jan 02 21:11:26 2017 GMT <unknown@SKY-20160730AII>
+exit
+# Octave 4.2.0, Mon Jan 02 21:12:01 2017 GMT <unknown@SKY-20160730AII>
+load featuresX.dat
+pwd
+load('D:/input/featuresX.dat')
+who
+size(featuresX.dat)
+size(featuresX)
+size(f)
+size(feature,1)
+size(featureX,1)
+size(featuresX,1)
+clear
+whos
+exit
+# Octave 4.2.0, Tue Jan 17 22:30:33 2017 GMT <unknown@SKY-20160730AII>
+A = [1 2; 3 4; 5 6]
+B = [1 2 3 ; 4 5 6]
+A'.*B
+exit
+# Octave 4.2.0, Wed Jan 18 15:03:54 2017 GMT <unknown@SKY-20160730AII>
+ex1.m
+run ex1.m
+pwd
+run ex1.m
+help run
+ex1
+"ex1"
+ex1
+ex1
+submit
+addpath "F:/Workspace/Octave/"
+pwd
+ex1
+sdfasdfasfsdf
+clf
+clear
+exit
+# Octave 4.2.0, Wed Jan 18 16:48:57 2017 GMT <unknown@SKY-20160730AII>
+ex1
+exit
+# Octave 4.2.0, Wed Jan 18 16:49:45 2017 GMT <unknown@SKY-20160730AII>
+addpath "F:/Workspace/Octave/"
+ex1
+submit
+addpath "F:/Workspace/Octave"
+ex1
+submit
+ex1
+submit
+exit
+# Octave 4.2.0, Wed Jan 18 17:03:30 2017 GMT <unknown@SKY-20160730AII>
+ex1
+submit
+submit
+exit
+# Octave 4.2.0, Wed Jan 18 17:23:03 2017 GMT <unknown@SKY-20160730AII>
